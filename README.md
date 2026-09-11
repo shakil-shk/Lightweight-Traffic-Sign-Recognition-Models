@@ -1,8 +1,10 @@
 # Comparative Analysis of Lightweight Deep Learning Models for Traffic Sign Recognition
 
-**Author:** Shakil Ahammed (Roll: 2114058 | Reg: 1123)
-**Supervisor:** Dr. Bappa Sarkar (Associate Professor)
-**Department:** Computer Science and Engineering, Islamic University, Bangladesh
+## Author
+
+**Shakil Ahammed**<br>
+Department of Computer Science and Engineering<br>
+Islamic University, Bangladesh
 
 ---
 
@@ -30,7 +32,7 @@ TSR is the task of identifying a traffic sign's meaning from a camera image, and
 
 ---
 
-## 2. Related Work
+## 2. Literature Review and Background
 
 - **Classical approaches:** hand-crafted features (e.g., HOG) with SVM classifiers — sensitive to lighting, occlusion, and viewpoint changes.
 - **CNN-based classification:** learned features outperform hand-designed ones; multi-column CNN ensembles have exceeded human performance on GTSRB, suggesting GTSRB is not especially difficult once a model has sufficient capacity.
