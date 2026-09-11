@@ -1,0 +1,11 @@
+--- Custom CNN Performance Metrics ---
+Total Training Time : 809.06 seconds
+Final Epochs Run    : 14
+
+Final Training Loss : 0.0757
+Final Training Acc  : 0.9768
+
+Final Val Loss      : 0.0150
+Final Val Acc       : 0.9964
+
+Test Set Accuracy   : 0.9936

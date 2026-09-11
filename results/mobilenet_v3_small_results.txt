@@ -1,0 +1,13 @@
+--- MobileNetV3-Small Performance Results ---
+Model Size               : 6.09 MB
+Total Parameters         : 1,561,931
+Trainable Parameters     : 1,371,411
+
+Total Training Time      : 554.10 seconds
+Inference Time (per img) : 1.2797 ms
+
+--- Evaluation Metrics (Test Set) ---
+Accuracy                 : 0.9033 (90.33%)
+Precision (Weighted)     : 0.9075
+Recall (Weighted)        : 0.9033
+F1 Score (Weighted)      : 0.9032

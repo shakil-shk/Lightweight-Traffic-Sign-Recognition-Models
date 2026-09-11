@@ -1,0 +1,13 @@
+--- EfficientNet-B0 Performance Results ---
+Model Size               : 15.79 MB
+Total Parameters         : 4,062,631
+Trainable Parameters     : 3,210,823
+
+Total Training Time      : 596.48 seconds
+Inference Time (per img) : 1.1332 ms
+
+--- Evaluation Metrics (Test Set) ---
+Accuracy                 : 0.9278 (92.78%)
+Precision (Weighted)     : 0.9312
+Recall (Weighted)        : 0.9278
+F1 Score (Weighted)      : 0.9282

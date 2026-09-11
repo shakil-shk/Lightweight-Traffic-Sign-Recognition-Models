@@ -1,0 +1,13 @@
+--- MobileNetV2 Performance Results ---
+Model Size               : 8.93 MB
+Total Parameters         : 2,278,955
+Trainable Parameters     : 1,736,427
+
+Total Training Time      : 566.33 seconds
+Inference Time (per img) : 1.1649 ms
+
+--- Evaluation Metrics (Test Set) ---
+Accuracy                 : 0.9424 (94.24%)
+Precision (Weighted)     : 0.9442
+Recall (Weighted)        : 0.9424
+F1 Score (Weighted)      : 0.9425
